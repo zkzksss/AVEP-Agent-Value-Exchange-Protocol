@@ -1,11 +1,11 @@
-﻿# AVEP - AI Via Ethereum Paymaster
+﻿# AVEP - Agent Value Exchange Protocol
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![zkSync Era](https://img.shields.io/badge/zkSync-Era-8B5CF6)](https://zksync.io/)
 
 [中文文档](README_CN.md) | English
 
-**AVEP** is a collection of AI-powered skills that enable seamless Ethereum transactions via paymaster on zkSync Era testnet. No gas fees required - let AI handle your blockchain interactions!
+**AVEP (Agent Value Exchange Protocol)** is a collection of AI-powered skills that enable seamless Ethereum transactions via paymaster on zkSync Era testnet. No gas fees required — let AI handle your blockchain interactions!
 
 ## 🌟 Features
 

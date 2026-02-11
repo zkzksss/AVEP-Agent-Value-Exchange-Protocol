@@ -1,11 +1,11 @@
-﻿# AVEP - AI 驱动的以太坊 Paymaster 交易工具
+﻿# AVEP - Agent Value Exchange Protocol
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![zkSync Era](https://img.shields.io/badge/zkSync-Era-8B5CF6)](https://zksync.io/)
 
 中文文档 | [English](README.md)
 
-**AVEP** 是一个 AI 技能集合，通过 paymaster 在 zkSync Era 测试网上实现无缝的以太坊交易。零 gas 费 - 让 AI 处理你的区块链交互！
+**AVEP (Agent Value Exchange Protocol)** 是一个 AI 驱动的代理交易协议技能集合，通过 paymaster 在 zkSync Era 测试网上实现无缝的以太坊交易。零 gas 费 — 让 AI 代理处理你的区块链交互！
 
 ## 🌟 功能特性
 
