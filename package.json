@@ -1,0 +1,42 @@
+﻿{
+  "name": "avep",
+  "version": "1.0.0",
+  "description": "AI Via Ethereum Paymaster - AI-powered skills for seamless zkSync Era transactions",
+  "main": "index.js",
+  "scripts": {
+    "verify": "npx ts-node verify.ts",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "ethereum",
+    "zksync",
+    "paymaster",
+    "blockchain",
+    "skills",
+    "mcp",
+    "web3"
+  ],
+  "author": "AVEP Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zkzksss/AVEP-Agent-Value-Exchange-Protocol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zkzksss/AVEP-Agent-Value-Exchange-Protocol/issues"
+  },
+  "homepage": "https://github.com/zkzksss/AVEP-Agent-Value-Exchange-Protocol#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.15.0",
+    "zksync-ethers": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
