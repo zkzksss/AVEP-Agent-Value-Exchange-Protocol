@@ -1,4 +1,4 @@
-﻿# AVEP API 参考
+# AVEP API 参考
 
 AVEP 技能的详细 API 参考文档。
 
@@ -18,7 +18,7 @@ AVEP 技能的详细 API 参考文档。
 |--------|------|------|--------|------|
 | `BASE_TOKEN` | address | 否 | `0x5fcb2f5E96010F8A94CC1295851a74A6Ae97875A` | BaseToken 合约地址 |
 | `AGW_MINT_PAYMASTER` | address | 否 | `0xA9B24BE89a93f7026095EF0a9165E4CAcC9FC844` | Paymaster 合约地址 |
-| `BONDING_CURVE_FACTORY` | address | 否 | `0x21A5aFbf495Cd9C9750fb26831AB03Da91415b6e` | 工厂合约地址 |
+| `BONDING_CURVE_FACTORY` | address | 否 | `0x265790fA3E3239887Af948C789A6A914f2A93380` | 工厂合约地址 |
 | `CURVE_ADDRESS` | address | 视情况 | - | 曲线代币合约地址 |
 
 ### 用户凭证

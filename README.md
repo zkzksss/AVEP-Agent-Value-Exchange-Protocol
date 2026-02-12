@@ -1,4 +1,4 @@
-﻿# AVEP - Agent Value Exchange Protocol
+# AVEP - Agent Value Exchange Protocol
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![zkSync Era](https://img.shields.io/badge/zkSync-Era-8B5CF6)](https://zksync.io/)
@@ -144,7 +144,7 @@ npx -y -p ts-node@10.9.2 -p ethers@6.15.0 \
 - **Chain ID**: 2741 (zkSync Era testnet)
 - **BaseToken**: `0x5fcb2f5E96010F8A94CC1295851a74A6Ae97875A`
 - **Paymaster**: `0xA9B24BE89a93f7026095EF0a9165E4CAcC9FC844`
-- **Factory**: `0x21A5aFbf495Cd9C9750fb26831AB03Da91415b6e`
+- **Factory**: `0x265790fA3E3239887Af948C789A6A914f2A93380`
 
 ## 🤝 Contributing
 

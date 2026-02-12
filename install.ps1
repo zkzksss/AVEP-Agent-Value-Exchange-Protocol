@@ -1,4 +1,4 @@
-﻿# AVEP 一键安装脚本 (Windows PowerShell)
+# AVEP 一键安装脚本 (Windows PowerShell)
 # 使用方法: irm https://raw.githubusercontent.com/zkzksss/AVEP-Agent-Value-Exchange-Protocol/main/install.ps1 | iex
 
 Write-Host "==================================" -ForegroundColor Cyan
@@ -76,7 +76,7 @@ RPC_URL=https://api.testnet.abs.xyz
 # 智能合约地址（已预设）
 BASE_TOKEN=0x5fcb2f5E96010F8A94CC1295851a74A6Ae97875A
 AGW_MINT_PAYMASTER=0xA9B24BE89a93f7026095EF0a9165E4CAcC9FC844
-BONDING_CURVE_FACTORY=0x21A5aFbf495Cd9C9750fb26831AB03Da91415b6e
+BONDING_CURVE_FACTORY=0x265790fA3E3239887Af948C789A6A914f2A93380
 
 # 可选：自定义曲线地址
 # CURVE_ADDRESS=0x...
